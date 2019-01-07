@@ -1,16 +1,14 @@
 body {
   text-align: center
 }
-.rectangleWrapper {
-  background-color: green;
-  display: inline-block;
+#rectangleWrapper {
   padding: 50px 50px 0 50px;
 
 }
 .rectangle {
   width: 150px;
   height: 150px;
-  margin: auto
+  margin: auto;
 }
 
 #rectangle1 {
